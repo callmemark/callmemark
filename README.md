@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @callmemark
+- 👋 Hi, I’m Mark
 - 👀 I’m interested in game development AI Develoment
 - 🌱 I’m currently learning Game theories
 - 💞️ I’m looking to collaborate on nothing for now
